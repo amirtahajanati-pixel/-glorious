@@ -4,7 +4,7 @@ from telebot import types
 
 # Set your NEW bot token in the Windows Command Prompt before running:
 # set TELEGRAM_BOT_TOKEN=YOUR_NEW_TOKEN
-TOKEN = os.getenv("9171457804:AAEc0Pz9LCVUj7WE7yGTE9CKzs_i3K5QM3Q")
+TOKEN = os.getenv("9277962703:AAFy4m9AC1DT6I5T6Huz6-TIzNp_WbJjdnM")
 
 if not TOKEN:
     raise SystemExit(
